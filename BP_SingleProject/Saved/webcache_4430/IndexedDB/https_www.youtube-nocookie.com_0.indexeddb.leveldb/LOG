@@ -1,0 +1,6 @@
+2023/10/23-15:21:35.410 59c Creating DB D:/Potato/BP_SingleProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/23-15:21:35.472 59c Reusing MANIFEST D:/Potato/BP_SingleProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/23-15:22:30.128 5228 Level-0 table #5: started
+2023/10/23-15:22:30.172 5228 Level-0 table #5: 1167 bytes OK
+2023/10/23-15:22:30.192 5228 Delete type=0 #3
+2023/10/23-15:22:30.193 5228 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
